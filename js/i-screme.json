@@ -1,0 +1,43 @@
+{
+  "companyName": "I-Screme Company Inc.",
+  "headOffice": "123 Ice Cream Lane, Sweet City, SC 12345",
+  "established": 2025,
+  "active": true,
+  "topFlavors": [
+    {
+      "name": "Chocolate Mint",
+      "calories": 250,
+      "type": "Ice Cream",
+      "ingredients": ["Chocolate syrup", "Sugar", "Vanilla Extract"],
+      "image": "https://samiradhikari-hub.github.io/Lab-3/images/chocolate-mint.svg"
+    },
+    {
+      "name": "Peach Mango",
+      "calories": 250,
+      "type": "Ice Cream",
+      "ingredients": ["Peach syrup", "Sugar", "Vanilla Extract"],
+      "image": "https://samiradhikari-hub.github.io/Lab-3/images/peach-mango.svg"
+    },
+    {
+      "name": "Strawberry Delight",
+      "calories": 250,
+      "type": "Ice Cream",
+      "ingredients": ["Strawberry syrup", "Sugar", "Vanilla Extract"],
+      "image": "https://samiradhikari-hub.github.io/Lab-3/images/strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Galaxy Vanilla",
+      "calories": 245,
+      "type": "Frozen Scoop",
+      "ingredients": ["Vanilla Swirl", "Star Dust", "Sweet Cream"],
+      "image": "https://samiradhikari-hub.github.io/Lab-3/images/ice-cream-xtra2.svg"
+    },
+    {
+      "name": "Cookie Blast",
+      "calories": 270,
+      "type": "Premium Ice Cream",
+      "ingredients": ["Cookie Crumble", "Fudge Bits", "Vanilla Base"],
+      "image": "https://samiradhikari-hub.github.io/Lab-3/images/ice-cream-xtra1.svg"
+    }
+  ]
+}
