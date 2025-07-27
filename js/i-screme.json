@@ -9,35 +9,35 @@
       "calories": 250,
       "type": "Ice Cream",
       "ingredients": ["Chocolate syrup", "Sugar", "Vanilla Extract"],
-      "image": "https://samiradhikari-hub.github.io/Lab-3/images/chocolate-mint.svg"
+      "image": "https://samiradhikari-hub.github.io/Lesson-10/images/chocolate-mint.svg"
     },
     {
       "name": "Peach Mango",
       "calories": 250,
       "type": "Ice Cream",
       "ingredients": ["Peach syrup", "Sugar", "Vanilla Extract"],
-      "image": "https://samiradhikari-hub.github.io/Lab-3/images/peach-mango.svg"
+      "image": "https://samiradhikari-hub.github.io/Lesson-10/images/peach-mango.svg"
     },
     {
-      "name": "Strawberry Delight",
+      "name": "Strawberry Sprinkle",
       "calories": 250,
       "type": "Ice Cream",
       "ingredients": ["Strawberry syrup", "Sugar", "Vanilla Extract"],
-      "image": "https://samiradhikari-hub.github.io/Lab-3/images/strawberry-sprinkle.svg"
+      "image": "https://samiradhikari-hub.github.io/Lesson-10/images/strawberry-sprinkle.svg"
     },
     {
-      "name": "Galaxy Vanilla",
-      "calories": 245,
-      "type": "Frozen Scoop",
-      "ingredients": ["Vanilla Swirl", "Star Dust", "Sweet Cream"],
-      "image": "https://samiradhikari-hub.github.io/Lab-3/images/ice-cream-xtra2.svg"
+      "name": "Vanilla Bliss",
+      "calories": 250,
+      "type": "Ice Cream",
+      "ingredients": ["Vanilla cream", "Sugar", "Milk"],
+      "image": "https://samiradhikari-hub.github.io/Lesson-10/images/ice-cream-xtra2.svg"
     },
     {
-      "name": "Cookie Blast",
-      "calories": 270,
-      "type": "Premium Ice Cream",
-      "ingredients": ["Cookie Crumble", "Fudge Bits", "Vanilla Base"],
-      "image": "https://samiradhikari-hub.github.io/Lab-3/images/ice-cream-xtra1.svg"
+      "name": "Choco Lava",
+      "calories": 250,
+      "type": "Ice Cream",
+      "ingredients": ["Choco chips", "Milk", "Sugar"],
+      "image": "https://samiradhikari-hub.github.io/Lesson-10/images/ice-cream-xtra1.svg"
     }
   ]
 }
